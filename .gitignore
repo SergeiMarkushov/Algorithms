@@ -1,0 +1,34 @@
+# Скомпилированные файлы классов
+*.class
+
+# Логи
+*.log
+
+# Файлы BlueJ
+*.ctxt
+
+# Файлы пакетов
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Логи сбоев виртуальной машины
+hs_err_pid*
+
+# Директории сборки
+target/
+bin/
+build/
+
+# Настройки IDE
+.idea/
+*.iml
+*.iws
+.settings/
+
+# Временные файлы
+.DS_Store
